@@ -1,0 +1,2 @@
+# premium-maple-tap-001-maple-tap-spile-evaporator-b
+Tracking sap flow, spile performance, and evaporator temperatures across multiple taps shouldn't require scattered spreadsheets and guesswork. The Maple Tap Spile &amp; Evaporator Boil Craft Lab brings your entire maple operation into one organized, visual workspace.  This Notion template eliminates the chaos of managing tap yields, spile efficiency, a
